@@ -1,7 +1,6 @@
 # EX 9: Simulating Classification using WEKA Data mining and Analysis Tool
-## Date: 
-## AIM:
-To perform a classification technique using WEKA tool
+## Date: 6/10/23
+## AIM: To perform a classification technique using WEKA tool
 ## WEKA:
 <div align="justify">
 Weka is a comprehensive software that lets you to preprocess the big data, apply different machine learning algorithms on big data and compare various outputs. This software makes it easy to work with big data and train a machine using machine learning algorithms. This tutorial will guide you in the use of WEKA for achieving all the above requirements.
